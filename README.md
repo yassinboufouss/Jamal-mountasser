@@ -8,5 +8,3 @@
 <a href="https://github.com/TJimmY123">
    <img src="https://komarev.com/ghpvc/?username=TJimmY123">
 </a>
-
- print " Hello World ! "
