@@ -1,10 +1,10 @@
-![Discord](https://discord.c99.nl/widget/theme-3/479183494958940161.png)
+![Discord](https://discord.c99.nl/widget/theme-2/651135429550014475.png)
 
 
-![TJimmY123 github stats](https://github-readme-stats.vercel.app/api?username=TJimmY123&show_icons=true&theme=tokyonight)
-<a href="https://github.com/TJimmY123">
-  <img src="https://img.shields.io/github/followers/TJimmY123">
+![yassinboufouss github stats](https://github-readme-stats.vercel.app/api?username=yassinboufouss&show_icons=true&theme=tokyonight)
+<a href="https://github.com/yassinboufouss">
+  <img src="https://img.shields.io/github/followers/yassinboufouss">
 </a>
-<a href="https://github.com/TJimmY123">
-   <img src="https://komarev.com/ghpvc/?username=TJimmY123">
+<a href="https://github.com/yassinboufouss">
+   <img src="https://komarev.com/ghpvc/?username=yassinboufouss">
 </a>
